@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#wrapper {
+  height: 100vh;
+  width: 500px;
+  margin: 0 auto;
+}
+
+#quote-box {
+  text-align: center;
+  border: 3px solid rgb(78, 22, 22);
+  padding: 70px 0;
+  margin: auto;
+}
